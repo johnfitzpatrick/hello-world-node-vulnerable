@@ -1,4 +1,4 @@
-FROM node:12
+FROM quay.io/awsdemosec/node:latestquay.io/awsdemosec/node:latest
 
 # Create app directory
 WORKDIR /usr/src/app
